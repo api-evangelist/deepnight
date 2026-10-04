@@ -47,7 +47,7 @@ tags:
 - Frontier Tech
 - Defense Technology
 - Night Vision
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Imaging
 - Edge AI
@@ -60,6 +60,7 @@ tags_raw:
 - Artificial Intelligence
 - Imaging
 - Edge AI
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
